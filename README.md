@@ -1,6 +1,6 @@
 <!-- [![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=SagarNaliyapara)] -->
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=SagarNaliyapara)
+!Sagar(https://github-readme-stats.vercel.app/api/top-langs/?username=SagarNaliyapara)
 
 
 ### Hi there 👋
