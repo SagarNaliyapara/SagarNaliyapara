@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 📫 How to reach me: naliyaparaspn@gmail.com
+- ✉️Reach out to me : naliyaparaspn@gmail.com
 
-### 🅼🆈 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
 
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&color=blue&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-%231572B6?style=flat-square&color=green&logo=laravel&logoColor=fffff)
