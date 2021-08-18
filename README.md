@@ -9,7 +9,7 @@
 
 ![Livewire](https://img.shields.io/badge/-Livewire-%231572B6?style=flat-square&color=blueviolet&logo=laravel-livewire&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![ReactJs](https://img.shields.io/badge/-ReactJs-%232c3e50?style=flat-square&logo=ReactJs)
+![React](https://img.shields.io/badge/-React-%232c3e50?style=flat-square&logo=React)
 ![Mobx](https://img.shields.io/badge/-Mobx-%232c3e50?style=flat-square&logo=Mobx)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
